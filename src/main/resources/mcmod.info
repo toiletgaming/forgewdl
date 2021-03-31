@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgewdl",
+  "name": "World Downloader Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/toiletgaming/forgewdl",
+  "updateUrl": "",
+  "authorList": ["mrnv/ayywareseller"],
+  "credits": "Pokechu22 (for original WDL mod), Future Client developers (for making it a Forge mod), 086 (for KAMI)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

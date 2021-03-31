@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.7.4",
+  "package": "net.futureclient.forgewdl.mixins",
+  "refmap": "mixins.forgewdl.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinRenderManager",
+    "MixinGuiIngameMenu",
+    "MixinWorldClient",
+    "MixinNetHandlerPlayClient",
+    "MixinCrashReport",
+    "MixinLocale"
+  ]
+}
